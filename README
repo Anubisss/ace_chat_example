@@ -1,0 +1,38 @@
+                                ace_chat_example
+===============================================================================
+
+
+
+   ace_chat_example contains a server and a client application. The project
+is a basic chat client and server which was developped for learning purposes
+around 3 years ago.
+   The project is using the ACE (The Adaptive Communication Environment)
+framework which is a free and open source object oriented framework for
+concurrent communication softwares.
+   For more info visit http://www.cs.wustl.edu/~schmidt/ACE.html
+
+
+Source code is available at: http://github.com/Anubisss/ace_chat_example
+
+License: GNU GPLv3
+         COPYING file contains the license which should be distributed
+         with the software or visit http://www.gnu.org/licenses/gpl-3.0.html
+
+
+
+ace_chat_example is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+ace_chat_example is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with ace_chat_example.  If not, see <http://www.gnu.org/licenses/>.
+
+
+
+===============================================================================
